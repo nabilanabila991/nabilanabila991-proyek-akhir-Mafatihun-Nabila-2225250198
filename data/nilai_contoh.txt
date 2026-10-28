@@ -1,0 +1,8 @@
+Andi,85
+Budi,72
+Cici,90
+Dedi,65
+Eka,88
+Fira,95
+Gani,58
+Hani,78
